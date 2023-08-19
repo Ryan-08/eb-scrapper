@@ -18,3 +18,8 @@ run `npm install` for installing the package used
 ### how to use
 
 run `npm start` and go to localhost:3000 in your browser
+
+
+### Try it on Replit
+visit this [ebayScrapper](https://replit.com/github/ryan-08/eb-scrapper
+) to import this project on [replit](https://replit.com/)
