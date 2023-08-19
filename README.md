@@ -5,9 +5,9 @@ This is a simple scraper that scrapes the eBay website and returns all items for
 ### tech stack
 
 - javascript
-- <a href="[https://replit.com/github/ryan-08/eb-scrapper](https://nodejs.org/id)" target="_blank">Node js</a>
-- <a href="[https://replit.com/github/ryan-08/eb-scrapper](https://www.npmjs.com/package/express)" target="_blank">Express</a>
-- <a href="[https://replit.com/github/ryan-08/eb-scrapper](https://www.npmjs.com/package/jsdom/v/14.1.0)" target="_blank">jsdom</a> 
+- <a href="https://nodejs.org/id" target="_blank">Node js</a>
+- <a href="https://www.npmjs.com/package/express" target="_blank">Express</a>
+- <a href="https://www.npmjs.com/package/jsdom/v/14.1.0" target="_blank">jsdom</a> 
 
 ### install
 
