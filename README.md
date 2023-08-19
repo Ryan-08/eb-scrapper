@@ -21,5 +21,10 @@ run `npm start` and go to localhost:3000 in your browser
 
 
 ### Try it on Replit
-visit this [ebayScrapper](https://replit.com/github/ryan-08/eb-scrapper
-) to import this project on [replit](https://replit.com/)
+- visit [replit](https://replit.com/) and create your account.
+- visit this [ebayScrapper](https://replit.com/github/ryan-08/eb-scrapper
+) to import this project on [replit](https://replit.com/).
+- Next, you will see a .replit window.
+- Select Use run command and click the Done button.
+
+
