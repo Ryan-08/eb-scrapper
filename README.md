@@ -11,6 +11,8 @@ This is a simple scraper that scrapes the eBay website and returns all items for
 
 ### install
 
+*Install Node js latest version (visit link Node js above to download)
+
 run `npm install` for installing the package used
 
 ### how to use
